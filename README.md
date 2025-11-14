@@ -12,7 +12,8 @@ I'm a JavaScript & Node.js Developer
 Uzbekistan
 
 ## 📫 Contacts
-- Telegram: @KINGOLIMXOJA
+- ✉️  You can contact me on Telegram: [@Saidolimxoja](https://t.me/kingolimxoja)
+
 
 ## ⚡ About me
 Love building bots and backend systems.
