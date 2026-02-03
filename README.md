@@ -34,27 +34,16 @@
   💬 Ask me anything <a href="https://github.com/Saidolimxoja/Saidolimxoja/issues">here</a>
 </p>
 
-<hr>
+## 🛠 Tech Stack
 
-<div align="center">
-  <img width="390"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Saidolimxoja&theme=react&hide_border=true" />
-  <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=Saidolimxoja&show_icons=true&theme=react&hide_border=true" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br>
-
-<div align="center">
-  <img width="325"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidolimxoja&layout=compact&theme=react&hide_border=true"/>
-</div>
-
-<br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Saidolimxoja&theme=react-dark&hide_border=true" width="100%"/>
-
-<hr>
+**Concepts:** SQL · REST APIs
 
 <h4 align="center">
   <a href="https://github.com/Saidolimxoja?tab=repositories">🔎 Show Repositories 🔍</a>
