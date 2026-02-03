@@ -7,7 +7,13 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://t.me/Kingolimxoja" title="Telegram Profile">
+  <a href="https://www.linkedin.com/in/saidolimxoja/" title="LinkedIn">
+    <img width="90" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:saidolim3838@gmail.com" title="Email">
+    <img width="90" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/Kingolimxoja" title="Telegram">
     <img width="90" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </h5>
@@ -17,13 +23,13 @@
 <p align="center">
   Hi, I'm Saidolimxoja, backend developer from Uzbekistan 🇺🇿
   <br><br>
-  🎓 I'm currently studying at Tashkent University of Information Technologies (TUIT)
+  🎓 Studying at Tashkent University of Information Technologies (TUIT)
   <br>
   💻 Focused on backend development and system design
   <br>
-  🚀 Building real projects with Node.js, NestJS, Docker, PostgreSQL & MongoDB
+  🚀 Building projects with Node.js, NestJS, Docker, PostgreSQL & MongoDB
   <br>
-  📚 Constantly improving architecture, databases, and backend fundamentals
+  📚 Improving architecture, databases, and backend fundamentals
   <br>
   💬 Ask me anything <a href="https://github.com/Saidolimxoja/Saidolimxoja/issues">here</a>
 </p>
@@ -31,28 +37,22 @@
 <hr>
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="390"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Saidolimxoja&theme=react&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390"
-         src="https://github-readme-stats.vercel.app/api?username=Saidolimxoja&show_icons=true&theme=react&hide_border=true" />
-  </a>
+  <img width="390"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Saidolimxoja&theme=react&hide_border=true" />
+  <img width="390"
+       src="https://github-readme-stats.vercel.app/api?username=Saidolimxoja&show_icons=true&theme=react&hide_border=true" />
 </div>
 
+<br>
 
-  <br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <img width="325"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidolimxoja&layout=compact&theme=react&hide_border=true"/>
+</div>
 
-  <div align="center">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidolimxoja&layout=compact&theme=react&hide_border=true"/>
-  </div>
+<br>
 
-  <br>
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=Saidolimxoja&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Saidolimxoja&theme=react-dark&hide_border=true" width="100%"/>
 
 <hr>
 
