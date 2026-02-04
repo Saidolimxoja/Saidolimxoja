@@ -8,17 +8,16 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/saidolimxoja/" title="LinkedIn">
-    <img width="90" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:saidolim3838@gmail.com" title="Email">
-    <img width="90" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="40" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://t.me/Kingolimxoja" title="Telegram">
-    <img width="90" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img height="40" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </h5>
 
-<br>
 
 <p align="center">
   Hi, I'm Saidolimxoja, backend developer from Uzbekistan 🇺🇿
@@ -38,20 +37,31 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+</a>
 
-<br><br>
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+</a>
 
-<strong>Concepts:</strong>  
-SQL · REST APIs · Backend Architecture · API Design
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</a>
 
 </div>
-
 
 <h4 align="center">
   <a href="https://github.com/Saidolimxoja?tab=repositories">🔎 Show Repositories 🔍</a>
